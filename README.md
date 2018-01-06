@@ -1,6 +1,6 @@
 LeetCode
 ========
-【转自：https://github.com/pezy/LeetCode】
+【转自：https://github.com/pezy/LeetCode 】
 （很好奇，这个表是怎么快速制作的！）
 
 LeetCode solutions in C++ 11 and Python3.
