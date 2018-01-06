@@ -6,7 +6,8 @@ step 1：数组排序。
 
 step 2：两个下标i、j，从左以及从右遍历数组，分别为a、b。
 
-step 3: 3.1、若a + b > target，b--
+step 3: 
+        3.1、若a + b > target，b--
  
         3.2、若a + b < target, i++
 
