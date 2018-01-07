@@ -3,11 +3,11 @@
 同时遍历两个链表，将l2加到l1上，遇10进1.
 
 特例：
-    1、l1.length > l2.length    carry == 1 or carry == 0 
-   
-    2、l1.length < l2.length    carry == 1 or carry == 0
-    
-    3、l1.length == l2.length   carry == 1 or carry == 0
+1、l1.length > l2.length    carry == 1 or carry == 0 
+
+2、l1.length < l2.length    carry == 1 or carry == 0
+  
+3、l1.length == l2.length   carry == 1 or carry == 0
     
     (note: 6种情况需要考虑齐全。)
     
