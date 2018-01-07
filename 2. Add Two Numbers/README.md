@@ -4,9 +4,13 @@
 
 特例：
     1、l1.length > l2.length    carry == 1 or carry == 0 
-    2、l1.length < l2.length    carry == 1 or carry == 0
-    3、l1.length == l2.length   carry == 1 or carry == 0
-    (note: 6种情况需要考虑齐全。)
+   
+    2、l1.length < l2.length    carry == 1 or carry == 0
+    
+    3、l1.length == l2.length   carry == 1 or carry == 0
+    
+    (note: 6种情况需要考虑齐全。)
+    
 # 错误版
 
 （包含编写过程中存在的错误。）
